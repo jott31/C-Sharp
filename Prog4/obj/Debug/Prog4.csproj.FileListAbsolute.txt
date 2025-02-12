@@ -1,0 +1,16 @@
+C:\Users\ottjo\OneDrive\Documents\UofL\23 Spring\CIS 199\Prog4\Prog4\obj\Debug\Prog4.csproj.AssemblyReference.cache
+C:\Users\ottjo\OneDrive\Documents\UofL\23 Spring\CIS 199\Prog4\Prog4\obj\Debug\Prog4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ottjo\OneDrive\Documents\UofL\23 Spring\CIS 199\Prog4\Prog4\obj\Debug\Prog4.csproj.CoreCompileInputs.cache
+C:\Users\ottjo\OneDrive\Documents\UofL\23 Spring\CIS 199\Prog4\Prog4\bin\Debug\Prog4.exe.config
+C:\Users\ottjo\OneDrive\Documents\UofL\23 Spring\CIS 199\Prog4\Prog4\bin\Debug\Prog4.exe
+C:\Users\ottjo\OneDrive\Documents\UofL\23 Spring\CIS 199\Prog4\Prog4\bin\Debug\Prog4.pdb
+C:\Users\ottjo\OneDrive\Documents\UofL\23 Spring\CIS 199\Prog4\Prog4\obj\Debug\Prog4.exe
+C:\Users\ottjo\OneDrive\Documents\UofL\23 Spring\CIS 199\Prog4\Prog4\obj\Debug\Prog4.pdb
+C:\Users\ottjo\Downloads\Prog4\Prog4\Prog4\bin\Debug\Prog4.exe.config
+C:\Users\ottjo\Downloads\Prog4\Prog4\Prog4\bin\Debug\Prog4.exe
+C:\Users\ottjo\Downloads\Prog4\Prog4\Prog4\bin\Debug\Prog4.pdb
+C:\Users\ottjo\Downloads\Prog4\Prog4\Prog4\obj\Debug\Prog4.csproj.AssemblyReference.cache
+C:\Users\ottjo\Downloads\Prog4\Prog4\Prog4\obj\Debug\Prog4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ottjo\Downloads\Prog4\Prog4\Prog4\obj\Debug\Prog4.csproj.CoreCompileInputs.cache
+C:\Users\ottjo\Downloads\Prog4\Prog4\Prog4\obj\Debug\Prog4.exe
+C:\Users\ottjo\Downloads\Prog4\Prog4\Prog4\obj\Debug\Prog4.pdb
